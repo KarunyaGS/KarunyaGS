@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **HTML,CSS,Python**
 
+- 💬 Ask me about **HTML, CSS**
+
 - 📫 How to reach me **karunyags2005@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
