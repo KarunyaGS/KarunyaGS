@@ -132,7 +132,3 @@ Source code maintained in a private company repository.
 - Scalable Component Systems
 - Cross-Platform Application Development
 
-## Connect
-LinkedIn: [Your LinkedIn URL]
-
-Email: [Your Professional Email]
