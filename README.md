@@ -1,33 +1,138 @@
-<h1 align="center">Hi 👋, I'm Karunya G S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Karunya GS
+### Frontend Engineer | UI Engineer | Modern Web Technologies
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karunyags&label=Profile%20views&color=0e75b6&style=flat" alt="karunyags" /> </p>
+Frontend Engineer focused on building responsive, scalable, accessible and visually engaging web applications. Interested in modern frontend architecture, UI engineering, interactive experiences, reusable component systems and performance optimisation.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karunyags" alt="karunyags" /></a> </p>
+## Technical Skills
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Frontend Languages
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
 
-- 🔭 I’m currently working on **Frontend Project based Internship**
+### Frontend Frameworks & Libraries
+- React.js
+- Next.js
+- Angular
+- Vue.js
+- Svelte
+- Redux Toolkit
+- Zustand
+- React Hooks
+- React Router
+- TanStack Query
+- RxJS
 
-- 🌱 I’m currently learning **HTML,CSS,Python**
+### UI Frameworks & Styling
+- Tailwind CSS
+- Bootstrap
+- Material UI
+- Ant Design
+- Shadcn/UI
+- Sass / SCSS
+- CSS Modules
+- Styled Components
+- CSS Flexbox and Grid
+- Responsive and Mobile-First Design
 
-- 💬 Ask me about **HTML, CSS**
+### Graphics, Animation & Interactive Development
+- SVG (Scalable Vector Graphics)
+- HTML5 Canvas
+- Canvas 2D API
+- WebGL
+- CSS Animations and Transitions
+- Framer Motion
+- GSAP
+- Lottie Animations
+- D3.js
+- Chart.js
+- Three.js
 
-- 📫 How to reach me **karunyags2005@gmail.com**
+### UI/UX Engineering
+- Figma
+- Wireframing and Prototyping
+- Design Systems
+- Component-Based Architecture
+- Reusable UI Components
+- Design-to-Code Implementation
+- Accessibility (WCAG)
+- Cross-Browser Compatibility
+- Interaction Design
 
-- ⚡ Fun fact **I think I am Funny**
+### API Integration & State Management
+- REST API Integration
+- Axios
+- Fetch API
+- JSON
+- JWT Authentication
+- OAuth
+- WebSockets
+- Redux
+- Context API
+- Zustand
+- TanStack Query
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karunyags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karunyags" height="30" width="40" /></a>
-<a href="https://instagram.com/___.karunya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.karunya" height="30" width="40" /></a>
-</p>
+### Testing & Quality Assurance
+- Jest
+- React Testing Library
+- Cypress
+- Playwright
+- Vitest
+- Postman
+- Chrome DevTools
+- Lighthouse
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Build Tools & Development Environment
+- Vite
+- Webpack
+- Babel
+- npm
+- pnpm
+- Git
+- GitHub
+- VS Code
+- Docker
+- CI/CD
+- GitHub Actions
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunyags&show_icons=true&locale=en&layout=compact" alt="karunyags" /></p>
+### Mobile & Cross-Platform Development
+- React Native
+- Expo
+- Progressive Web Applications (PWA)
+- Responsive Application Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karunyags&show_icons=true&locale=en" alt="karunyags" /></p>
+### Backend & Database Technologies
+- Node.js
+- Express.js
+- Python
+- Django REST Framework
+- MongoDB
+- MySQL
+- PostgreSQL
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karunyags&" alt="karunyags" /></p>
+## Selected Projects
+
+### Mazda – Frontend Design & Development
+Frontend design and implementation focused on responsive layouts, interface structure, visual consistency and user experience.
+
+Website: https://www.mazda.com/
+
+### Alfanumrik – Digital Learning Platform
+Frontend development involving application interfaces, dashboard experiences, responsive layouts, UI refinement and product workflows.
+
+Source code maintained in a private company repository.
+
+## Areas of Focus
+- Modern Frontend Architecture
+- UI/UX Engineering
+- Interactive Web Applications
+- SVG and Canvas-Based Graphics
+- Web Performance Optimisation
+- Scalable Component Systems
+- Cross-Platform Application Development
+
+## Connect
+LinkedIn: [Your LinkedIn URL]
+
+Email: [Your Professional Email]
